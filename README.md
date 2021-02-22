@@ -4,3 +4,4 @@
 
 - [x] write code
 - [x] deploy to netlify
+- [ ] make a successful pull request
