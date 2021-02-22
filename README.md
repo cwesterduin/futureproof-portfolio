@@ -5,3 +5,5 @@
 - [x] write code
 - [x] deploy to netlify
 - [x] make a successful pull request
+
+[view the site!](https://chris-futureproof-portfolio.netlify.app/)
