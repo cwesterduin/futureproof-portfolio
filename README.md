@@ -6,6 +6,6 @@
 - [x] write code
 - [x] deploy to netlify
 - [x] make a successful pull request
-- [ ] add css
+- [x] add css
 
 [view the site!](https://chris-futureproof-portfolio.netlify.app/)
