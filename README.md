@@ -2,8 +2,10 @@
 
 # Chris Westerduin portfolio website
 
+## Todo
 - [x] write code
 - [x] deploy to netlify
 - [x] make a successful pull request
+- [ ] add css
 
 [view the site!](https://chris-futureproof-portfolio.netlify.app/)
